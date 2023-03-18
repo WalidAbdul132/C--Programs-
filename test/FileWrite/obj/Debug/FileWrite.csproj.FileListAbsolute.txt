@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\FileWrite\bin\Debug\FileWrite.exe.config
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\FileWrite\bin\Debug\FileWrite.exe
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\FileWrite\bin\Debug\FileWrite.pdb
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\FileWrite\obj\Debug\FileWrite.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\FileWrite\obj\Debug\FileWrite.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\FileWrite\obj\Debug\FileWrite.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\FileWrite\obj\Debug\FileWrite.exe
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\FileWrite\obj\Debug\FileWrite.pdb
