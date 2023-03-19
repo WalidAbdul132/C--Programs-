@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_1\bin\Debug\Number_1.exe.config
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_1\bin\Debug\Number_1.exe
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_1\bin\Debug\Number_1.pdb
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_1\obj\Debug\Number_1.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_1\obj\Debug\Number_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_1\obj\Debug\Number_1.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_1\obj\Debug\Number_1.exe
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_1\obj\Debug\Number_1.pdb
