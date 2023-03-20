@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_5\obj\Debug\Number_5.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_5\obj\Debug\Number_5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_5\obj\Debug\Number_5.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_5\bin\Debug\Number_5.exe.config
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_5\bin\Debug\Number_5.exe
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_5\bin\Debug\Number_5.pdb
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_5\obj\Debug\Number_5.exe
+C:\Users\Hp\Desktop\Manipal\Dot Net Technologies (Prof. Zaheerudin)\test\Number_5\obj\Debug\Number_5.pdb
