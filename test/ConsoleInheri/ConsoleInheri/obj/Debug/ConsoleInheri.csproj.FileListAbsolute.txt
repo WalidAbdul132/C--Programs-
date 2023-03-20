@@ -1,0 +1,6 @@
+D:\DotnetProgs\Inheri\ConsoleInheri\ConsoleInheri\bin\Debug\ConsoleInheri.exe.config
+D:\DotnetProgs\Inheri\ConsoleInheri\ConsoleInheri\bin\Debug\ConsoleInheri.exe
+D:\DotnetProgs\Inheri\ConsoleInheri\ConsoleInheri\bin\Debug\ConsoleInheri.pdb
+D:\DotnetProgs\Inheri\ConsoleInheri\ConsoleInheri\obj\Debug\ConsoleInheri.csproj.CoreCompileInputs.cache
+D:\DotnetProgs\Inheri\ConsoleInheri\ConsoleInheri\obj\Debug\ConsoleInheri.exe
+D:\DotnetProgs\Inheri\ConsoleInheri\ConsoleInheri\obj\Debug\ConsoleInheri.pdb
